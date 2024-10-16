@@ -1,7 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Marco!</h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+
+<h3>- 🌱 I’m currently learning cybersecurity <h3>
 
 <!--
-**Marko97zx/Marko97zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
